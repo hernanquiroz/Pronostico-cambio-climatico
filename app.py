@@ -1,8 +1,6 @@
-# app.py"""
-Pronosticador de Cambio Climático y Fenómenos Atmosféricos
-Basado en: Kaper & Engler (2013), "Mathematics and Climate", SIAM.
-Portafolio docente — Cálculo Diferencial e Integral / Simuladores STEM.
-"""
+# Pronosticador de Cambio Climatico y Fenomenos Atmosfericos
+# Basado en Kaper & Engler (2013), Mathematics and Climate, SIAM.
+# Portafolio docente - Calculo Diferencial e Integral / Simuladores STEM.
 import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
